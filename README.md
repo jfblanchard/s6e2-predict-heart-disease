@@ -26,7 +26,6 @@ Kaggle Playground Series Season 6, Episode 2. Binary classification to predict h
 
 ## Takeaways for Next Competition
 
-- On Playground Series synthetic data, prioritize strong public FE kernels over tuning or ensembling
 - CatBoost CPU float64 is the reliable baseline; establish it early
 - Stacking/ensembling is only worth exploring if base model correlation is below ~0.998
 - Adversarial validation early rules out distribution shift strategies quickly
